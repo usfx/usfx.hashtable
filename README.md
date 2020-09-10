@@ -1,6 +1,6 @@
 # usfx.hashtable
 
-implementation of the hashtable in the class ci583.ass1.htable.Hashtable.java. 
+Implementation of the hashtable in the class ci583.ass1.htable.Hashtable.java. 
 
 When a new Hashtable is created, the array should be initialised with a size which is the smallest prime number larger than or equal to the requested initial capacity. 
 
